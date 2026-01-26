@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 AI Intern @ <strong>Key Dynamics Solutions</strong> • MCA @ <em>University of Delhi (2023-2025)</em><br/>
+  🚀 Full Stack Enginner @ <strong>HexaHealth</strong> • MCA @ <em>University of Delhi (2023-2025)</em><br/>
   Passionate about LLMs, RAG, and Full Stack AI Applications
 </p>
 
