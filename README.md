@@ -13,10 +13,10 @@
 
 ## 💡 About Me
 
-- 🔭 **Currently Working At:** Key Dynamics Solutions as **AI Intern**  
+- 🔭 **Currently Working At:** HexaHealth as **Executive Full Stack Engineer**  
 - 🎓 **Education:** MCA - University of Delhi (Department of Computer Science)  
 - 🎯 **Exploring:** Generative AI, NLP, ML, RAG, LangChain, LangGraph, Vector Databases & AI-driven application pipelines  
-- 👨‍💻 **Previous Internship:** National Informatics Centre – Full Stack Developer  
+<!--- 👨‍💻 **Previous Internship:** National Informatics Centre – Full Stack Developer -->
 - 📌 Actively building **AI workflows, RAG architectures, and end-to-end full-stack AI solutions**  
 
 ---
