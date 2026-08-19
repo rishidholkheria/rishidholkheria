@@ -15,7 +15,6 @@
 
 - 🔭 **Currently Working At:** HexaHealth as **Executive Full Stack Engineer**  
 - 🎓 **Education:** MCA - University of Delhi (Department of Computer Science)  
-- 🎯 **Exploring:** Generative AI, NLP, ML, RAG, LangChain, LangGraph, Vector Databases & AI-driven application pipelines  
 <!--- 👨‍💻 **Previous Internship:** National Informatics Centre – Full Stack Developer -->
 - 📌 Actively building **AI workflows, RAG architectures, and end-to-end full-stack AI solutions**  
 
@@ -34,10 +33,10 @@
 
 ### 🚀 Languages  
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ### 🤖 AI/ML & Backend  
